@@ -1,5 +1,5 @@
 package program
-
+// FNC
 import (
 	"fmt"
 	"os"
